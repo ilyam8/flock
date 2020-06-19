@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gofrs/flock"
+	"github.com/ilyam8/flock"
 
 	. "gopkg.in/check.v1"
 )
